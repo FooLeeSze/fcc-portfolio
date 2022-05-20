@@ -395,14 +395,14 @@ address a:hover {
     }
 }
 
-@media (min-width: 250px) {
+@media (min-width: 248px) {
     /* Work Section */
     #projects-main-container {
         margin-top: -21rem;
     }
 }
 
-@media (min-width: 405px) {
+@media (min-width: 408px) {
     /* Work Section */
     #projects-main-container {
         margin-top: -25rem;
