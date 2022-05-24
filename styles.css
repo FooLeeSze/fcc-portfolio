@@ -160,7 +160,8 @@ body {
 #about-me p {
     margin: auto;
     margin-bottom: 2rem;
-    text-align: justify;
+    font-size: 3rem;
+    text-align: center;
 }
 
 #personal-info-container {
@@ -180,7 +181,7 @@ body {
 }
 
 #profile-pic {
-    max-width: 200px;
+    max-width: 180px;
 }
 
 #profile-pic-container:before {
@@ -416,6 +417,10 @@ address a:hover {
     /* About Section */
     #about-me {
         margin-bottom: 8rem;
+    }
+
+    #about-me p {
+        text-align: left;
     }
 
     #personal-info-container {
